@@ -11,6 +11,7 @@ readme.workspace = true
 
 [dependencies]
 cortex-m.workspace = true
+critical-section.workspace = true
 vcell.workspace = true
 
 [dependencies.cortex-m-rt]
